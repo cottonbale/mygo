@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "hellonameread"
+		},
+		{
+			"path": "hellonamescan"
+		},
+		{
+			"path": "hellonamebasic"
+		},
+		{
+			"path": "helloscratch"
+		},
+		{
+			"path": "helloname"
+		},
+		{
+			"path": "readscan"
+		}
+	],
+	"settings": {}
+}
