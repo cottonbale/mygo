@@ -6,9 +6,8 @@ func main() {
 
 	var name string
 
-	fmt.Print("Enter your name: ")
+	fmt.Print("What is the input string ?\n")
 	fmt.Scanln(&name)
-	fmt.Printf("Hello %s nice to meet you.\n", name)
-	fmt.Printf("There are %d letters in your name\n", len(name))
+	fmt.Printf("%s has %d characters\n", name, len(name))
 
 }
