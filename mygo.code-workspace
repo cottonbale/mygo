@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "readscan"
+		},
+		{
+			"path": "madlib"
 		}
 	],
 	"settings": {}
