@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "madlib"
+		},
+		{
+			"path": "simplemath"
 		}
 	],
 	"settings": {}

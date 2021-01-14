@@ -8,8 +8,6 @@ import (
 
 func main() {
 
-	//fmt.Print("start\n")
-
 	scanner := bufio.NewScanner(os.Stdin)
 
 	fmt.Print("Enter a noun\n")
